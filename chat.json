@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'll work on making the hero text more catchy.",
+        "message_id": "guest08082024041418",
+        "timestamp": "08082024041419",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the hero text to make it more catchy",
         "message_id": "guest08082024041418",
