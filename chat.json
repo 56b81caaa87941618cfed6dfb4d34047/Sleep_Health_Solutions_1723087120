@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have specific one-word titles in mind for each tab, or would you like suggestions based on content and context?\", \"option1\": \"I have specific one-word titles in mind for each tab.\", \"option2\": \"I would like suggestions based on content and context.\"}, {\"question 2\": \"Should these new one-word titles also reflect a change in the website\\u2019s navigation hierarchy or simply be a direct renaming for clarity and brevity?\", \"option1\": \"It's just a direct renaming for clarity and brevity, no changes in the navigation hierarchy.\", \"option2\": \"Yes, please consider adjusting the website\\u2019s navigation hierarchy to match the new titles.\"}], \"input_token_count\": 262, \"output_token_count\": 151, \"time_taken\": \"0:00:05.613503\"}",
+        "message_id": "guest08082024034009",
+        "timestamp": "08082024034016",
+        "component_file_name": "simple_header_component_1723087122",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Please rename all of the tabs to one word versions",
         "message_id": "guest08082024034009",
