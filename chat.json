@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the new catchy hero text to focus more on the emotional or scientific benefits of solving sleep deprivation?\", \"option1\": \"Focus on emotional benefits such as feeling better, more energy, and improved mood\", \"option2\": \"Focus on scientific benefits like improved memory, longer lifespan, and decreased risk of diseases\"}, {\"question 2\": \"For the color RED in the hero text, do you have a specific shade in mind or should it align with the current color palette of the website?\", \"option1\": \"Use a specific shade of red (please specify the shade if possible)\", \"option2\": \"Align with the current website color palette, ensuring it complements the existing design\"}], \"input_token_count\": 350, \"output_token_count\": 155, \"time_taken\": \"0:00:04.612437\"}",
+        "message_id": "guest08082024041507",
+        "timestamp": "08082024041513",
+        "component_file_name": "simple_hero_component_1723087122",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Incorporate an interactive sleep quiz on the homepage to engage users immediately\", \"checked\": true}, {\"feature\": \"Add a dynamic background with soft, slow-moving visuals to evoke calmness\", \"checked\": false}, {\"feature\": \"Implement a 'Dark Mode' button for night-time browsing to reduce eye strain\", \"checked\": true}, {\"feature\": \"Design a customized progress tracker for users to monitor their treatment journey\", \"checked\": false}, {\"feature\": \"Embed a chatbot for instant Q&A on sleep health\", \"checked\": true}, {\"feature\": \"Incorporate testimonial sliders featuring success stories\", \"checked\": false}], \"input_token_count\": 304, \"output_token_count\": 148, \"time_taken\": \"0:00:04.398243\"}",
         "message_id": "guest08082024041507",
