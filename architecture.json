@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "Please change the navigation to include an about tab as well"
+    },
+    {
+        "level": 1,
+        "task_description": "Please rename all of the tabs to one word versions"
     }
 ]
