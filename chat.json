@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "change the hero text to something more catchy and RED",
+        "message_id": "guest08082024041507",
+        "timestamp": "08082024041507",
+        "component_file_name": "simple_hero_component_1723087122",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on changing hero text to a catchy red.",
         "message_id": "guest08082024041507",
