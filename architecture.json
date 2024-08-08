@@ -22,5 +22,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nAI: Alright, I'll work on making the hero text more catchy.\nUser: Change the hero text to make it more catchy\nUser: Please rename all of the tabs to one word versions\nUser: Please change the navigation to include an about tab as well\nThis is the user's current request of changes to be made: change the hero text to something more catchy and RED"
+    },
+    {
+        "level": 1,
+        "task_description": "Remove the about nav"
     }
 ]
