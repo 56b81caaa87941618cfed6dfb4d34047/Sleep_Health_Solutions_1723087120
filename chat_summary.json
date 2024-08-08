@@ -18,5 +18,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'About' tab to be positioned within the navigation menu?\", \"option1\": \"At the beginning of the menu.\", \"option2\": \"At the end of the menu.\"}, {\"question 2\": \"Would you like the 'About' tab to lead to a separate page, or display a drop-down section with the information?\", \"option1\": \"Lead to a separate page.\", \"option2\": \"Display a drop-down section with the information.\"}], \"input_token_count\": 263, \"output_token_count\": 111, \"time_taken\": \"0:00:04.921542\"}",
         "timestamp": "08082024033140",
         "message_id": "guest08082024033133"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Including 'About Us' tab in the main navigation\", \"checked\": true}, {\"feature\": \"Adding a 'Contact Us' page for feedback and inquiries\", \"checked\": true}, {\"feature\": \"Implementation of a 'Services' tab to detail treatment options\", \"checked\": false}, {\"feature\": \"Incorporation of a 'Testimonials' section for user reviews\", \"checked\": false}, {\"feature\": \"Creating a 'Resources' section for articles and research on sleep deprivation\", \"checked\": true}, {\"feature\": \"Adding a 'FAQ' section to answer common queries\", \"checked\": true}], \"input_token_count\": 217, \"output_token_count\": 130, \"time_taken\": \"0:00:05.379229\"}",
+        "timestamp": "08082024033140",
+        "message_id": "guest08082024033133"
     }
 ]
