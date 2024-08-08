@@ -48,5 +48,11 @@
         "content": "Change the hero text to make it more catchy",
         "timestamp": "08082024041418",
         "message_id": "guest08082024041418"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'll work on making the hero text more catchy.",
+        "timestamp": "08082024041419",
+        "message_id": "guest08082024041418"
     }
 ]
