@@ -54,5 +54,11 @@
         "content": "Alright, I'll work on making the hero text more catchy.",
         "timestamp": "08082024041419",
         "message_id": "guest08082024041418"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the new hero text to focus on emotional appeal or to be more informative about sleep deprivation treatments?\", \"option1\": \"Focus on emotional appeal\", \"option2\": \"Be more informative about sleep deprivation treatments\"}, {\"question 2\": \"Would you like to integrate any specific keywords or phrases for SEO purposes in the new hero text?\", \"option1\": \"Yes, integrate specific keywords for SEO\", \"option2\": \"No, focus solely on the content's appeal\"}], \"input_token_count\": 261, \"output_token_count\": 112, \"time_taken\": \"0:00:03.164227\"}",
+        "timestamp": "08082024041422",
+        "message_id": "guest08082024041418"
     }
 ]
