@@ -26,5 +26,9 @@
     {
         "level": 1,
         "task_description": "Remove the about nav"
+    },
+    {
+        "level": 1,
+        "task_description": "Remove the about nav"
     }
 ]
