@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Remove the about nav",
+        "message_id": "guest08082024041603",
+        "timestamp": "08082024041603",
+        "component_file_name": "simple_header_component_1723087122",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the new catchy hero text to focus more on the emotional or scientific benefits of solving sleep deprivation?\", \"option1\": \"Focus on emotional benefits such as feeling better, more energy, and improved mood\", \"option2\": \"Focus on scientific benefits like improved memory, longer lifespan, and decreased risk of diseases\"}, {\"question 2\": \"For the color RED in the hero text, do you have a specific shade in mind or should it align with the current color palette of the website?\", \"option1\": \"Use a specific shade of red (please specify the shade if possible)\", \"option2\": \"Align with the current website color palette, ensuring it complements the existing design\"}], \"input_token_count\": 350, \"output_token_count\": 155, \"time_taken\": \"0:00:04.612437\"}",
         "message_id": "guest08082024041507",
