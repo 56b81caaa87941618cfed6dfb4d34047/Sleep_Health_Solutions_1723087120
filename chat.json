@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'About' tab to be positioned within the navigation menu?\", \"option1\": \"At the beginning of the menu.\", \"option2\": \"At the end of the menu.\"}, {\"question 2\": \"Would you like the 'About' tab to lead to a separate page, or display a drop-down section with the information?\", \"option1\": \"Lead to a separate page.\", \"option2\": \"Display a drop-down section with the information.\"}], \"input_token_count\": 263, \"output_token_count\": 111, \"time_taken\": \"0:00:04.921542\"}",
+        "message_id": "guest08082024033133",
+        "timestamp": "08082024033140",
+        "component_file_name": "simple_header_component_1723087122",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Please change the navigation to include an about tab as well",
         "message_id": "guest08082024033133",
