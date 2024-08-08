@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "Please rename all of the tabs to one word versions"
+    },
+    {
+        "level": 1,
+        "task_description": "Change the hero text to make it more catchy"
     }
 ]
